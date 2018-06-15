@@ -9,6 +9,11 @@ namespace GraphQLNet
                 name:"hello",
                 resolve: context => "world"
             );
+
+            Field<StringGraphType>(
+                name: "howdy",
+                resolve: context => "universe"
+            );
         }
     }
 }
