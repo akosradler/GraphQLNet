@@ -34,6 +34,9 @@ namespace GraphQLNet
                 app.UseDeveloperExceptionPage();
             }           
 
+            app.UseDefaultFiles();
+            app.UseStaticFiles();
+
             app.UseMiddleware<GraphQLMiddleWare>();
         }
     }
