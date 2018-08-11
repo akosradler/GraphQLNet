@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GraphQLNet", "GraphQLNet.csproj", "{90BA68DA-4ED2-4633-968E-B066D7C9FBEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90BA68DA-4ED2-4633-968E-B066D7C9FBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BA68DA-4ED2-4633-968E-B066D7C9FBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90BA68DA-4ED2-4633-968E-B066D7C9FBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90BA68DA-4ED2-4633-968E-B066D7C9FBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29A64CF2-DEA0-4E9E-89D5-05CE26267CC3}
+	EndGlobalSection
+EndGlobal
